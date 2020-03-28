@@ -31,7 +31,7 @@ public class RobotImplement implements Robot{
         this.body = body;
         this.head = head;
     }
-    
+
     public Hand getHands() {
         return hands;
     }
